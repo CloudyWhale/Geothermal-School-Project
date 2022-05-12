@@ -22,7 +22,7 @@ body {
 }
 
 #header {
-  height: 250px;
+  height: 100px;
   object-fit: cover;
   object-position: 0% 0%; 
 }

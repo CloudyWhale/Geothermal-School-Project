@@ -28,3 +28,18 @@ body {
   object-fit: cover;
   object-position: 0% 50%; 
 }
+
+.card {
+position: absolute;
+left: 50px;
+top: 325px;
+background-color: white;
+width: 250px;
+height: 350px;
+border-radius: 25px;
+transition: 0.5s;
+}
+
+.card:hover {
+filter: drop-shadow(0px 0px 20px black);
+}

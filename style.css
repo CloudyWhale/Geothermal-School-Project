@@ -23,6 +23,6 @@ body {
 
 #header {
   height: 250px;
-  object-position: 0% 0%; 
   object-fit: cover;
+  object-position: 0% 0%; 
 }
